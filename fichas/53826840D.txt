@@ -1,0 +1,11 @@
+Nombre:	Guillermo
+Primer Apellido:	Perales
+Segundo Apellido:	Gallar
+NIF:			53826840D
+Fecha Nacimiento:	1/4/1999
+Puntos Totales:		76
+Partidas Jugadas:	1
+Partidas Ganadas:	1
+Cartas Ganadas:		7
+Puntos Por Partida:	7.0
+Cartas Por Partida:	0.0
